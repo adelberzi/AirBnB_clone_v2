@@ -2,6 +2,4 @@
 
 Author: Adel Berzi
 
-Github Username: adelberzi
-
-Thank you
+Github USername: adelberzi
